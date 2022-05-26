@@ -1,9 +1,0 @@
-{{"Belgica":"Brusel·les"},
-{"Italia":"Roma"},
-{"Grecia":"Atenes"},
-{"Alemanya":"Berlin"},
-{"França":"Paris"},
-{"Païssos Baixos":"Amsterdam"},
-{"Portugal":"Lisboa"},
-{"Espanya":"Madrid"},
-{"Anglaterra":"Londres"},}
